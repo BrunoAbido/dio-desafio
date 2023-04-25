@@ -1,0 +1,4 @@
+lista = [1, 9, 5,7]
+for item in lista:
+    print(item)
+
